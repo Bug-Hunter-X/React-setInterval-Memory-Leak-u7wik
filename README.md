@@ -1,0 +1,1 @@
+This repository demonstrates a common React bug: a memory leak caused by the improper use of setInterval within a useEffect hook. The bug.js file contains the problematic code, while bugSolution.js provides a corrected version with a cleanup function.
